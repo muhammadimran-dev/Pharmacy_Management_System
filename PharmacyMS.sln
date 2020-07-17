@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyMS", "PharmacyMS\PharmacyMS.csproj", "{80DB789D-217E-4C82-9889-0E19892DBFED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{AA83920C-C6EB-437C-8A03-656364C6FFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DB789D-217E-4C82-9889-0E19892DBFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DB789D-217E-4C82-9889-0E19892DBFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DB789D-217E-4C82-9889-0E19892DBFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DB789D-217E-4C82-9889-0E19892DBFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA83920C-C6EB-437C-8A03-656364C6FFE4}.Debug|Any CPU.ActiveCfg = Debug
+		{AA83920C-C6EB-437C-8A03-656364C6FFE4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
